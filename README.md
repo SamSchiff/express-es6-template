@@ -1,4 +1,4 @@
-## setting up VScode for ESlint and Prettier
+## Setting up VScode for ESlint and Prettier
 
 1. install Eslint and Prettier on VScode
 2. npm install -D eslint prettier
